@@ -1,5 +1,6 @@
 Drik Panchanga
 ==============
+This fork is maintained by Jayasri for use as the core engine behind a Panchang API service
 
 Observational Indian lunisolar calendar using the Swiss ephemeris (Hindu
 Drig-ganita Panchanga).
