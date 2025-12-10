@@ -1,3 +1,0 @@
-drik-panchang
-pytz
-swisseph
